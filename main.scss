@@ -51,7 +51,7 @@ body {
   .heading {
     font-weight: 900;
     color: $clr-neutral-3;
-    font-size: 3rem;
+    font-size: 2.6rem;
   }
   .paragraph {
     font-size: 1.6rem;
@@ -62,15 +62,13 @@ body {
 
   &__img {
     width: 100%;
-    & img {
-      display: block;
-    }
+    display: block;
   }
 
   &__details {
     display: flex;
     flex-direction: column;
-    padding: 4rem;
+    padding: 5rem;
   }
 
   &__header-text {
@@ -85,7 +83,7 @@ body {
     align-items: center;
     padding: 2.5rem;
     border-radius: 1.2rem;
-    margin-bottom: 2.5rem;
+    margin-bottom: 3rem;
 
     &--details {
       margin-left: 1.6rem;
