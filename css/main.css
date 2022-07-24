@@ -31,7 +31,6 @@ body {
 @media only screen and (max-width: 375px) {
   body {
     background-image: url(./images/pattern-background-mobile.svg);
-    margin:2rem;
   }
 }
 
@@ -55,9 +54,9 @@ body {
   line-height: 1.5;
 }
 
-.card__img{
-  display: block;
+.card__img {
   width: 100%;
+  display: block;
 }
 
 .card__details {
@@ -123,5 +122,22 @@ body {
 
 .card .btn--cancel:hover {
   color: #1f2f56;
+}
+
+.footer {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.footer .attribution {
+  width: 7rem;
+  background-color: #fff;
+  font-size: 1rem;
+  padding: 0.5rem;
+}
+
+.footer .attribution a {
+  text-decoration: none;
 }
 /*# sourceMappingURL=main.css.map */

@@ -128,3 +128,19 @@ body {
     }
   }
 }
+.footer {
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  .attribution {
+    width: 7rem;
+    background-color: #fff;
+    font-size: 1rem;
+    padding: 0.5rem;
+
+    & a {
+      text-decoration: none;
+    }
+  }
+}
