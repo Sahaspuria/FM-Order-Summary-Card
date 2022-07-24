@@ -10,11 +10,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -34,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My Solution Code](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Check here 👉](https://github.com/Sahaspuria/FM-Order-Summary-Card)
+- Live Site URL: [Check here 👉](https://sahaspuria.github.io/FM-Order-Summary-Card/)
 
 ## My process
 
